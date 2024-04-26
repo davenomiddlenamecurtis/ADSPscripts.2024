@@ -1,2 +1,2 @@
-# ADSPscripts.2024
+# ADSPscipts
 Scripts to analyse ADSP data
